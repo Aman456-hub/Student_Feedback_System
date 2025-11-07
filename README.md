@@ -21,7 +21,7 @@ It leverages **OpenAI GPT-3.5 API** for advanced sentiment detection and **TextB
 
 ## 🚀 Features
 
-✅ **Automated Sentiment Classification** — Uses GPT-3.5 and TextBlob
+✅ **Automated Sentiment Classification** — Uses GPT-3.5 and TextBlob\
 ✅ **Bulk Upload Support** — CSV/Excel file processing
 ✅ **Real-Time Dashboard** — Visual analytics with charts and summaries
 ✅ **Keyword & Theme Extraction** — Identifies core issues in feedback
